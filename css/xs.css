@@ -333,7 +333,7 @@ select {
     margin: 0 auto;
   }
   .select-index ul{
-    width: 80%;
+    width: 98%;
     flex-wrap: wrap;
     display: flex;
     margin: 0 auto;
@@ -344,7 +344,7 @@ select {
     margin-bottom: 2%;
     background-color:#ecdfdf;
     font-weight: bold;
-    width: 27%;
+    width: 30%;
     padding: 20px;
     border-radius: 32px;
     margin-top: 38px;
