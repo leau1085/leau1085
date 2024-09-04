@@ -333,19 +333,21 @@ select {
     margin: 0 auto;
   }
   .select-index ul{
-    width: 98%;
+    width: 80%;
     flex-wrap: wrap;
     display: flex;
     margin: 0 auto;
   }
   .select-index li{
-    width: 90%;
     margin: 0 auto;
     text-align: center;
-    padding: 20px 0;
     margin-bottom: 2%;
     background-color:#ecdfdf;
     font-weight: bold;
+    width: 27%;
+    padding: 20px;
+    border-radius: 32px;
+    margin-top: 38px;
   }
 }
 
